@@ -1,4 +1,4 @@
-# SOSAI: AN AI Powered Disaster Response Pipeline 
+# SOSAI: AI Powered Disaster Response Pipeline 
 ## Table of Contents
 1. [Introduction](https://github.com/Faisal-Alageel/Udacity-DataScientist/tree/main/Project%202#introduction)
 2. [File Descriptions](https://github.com/Faisal-Alageel/Udacity-DataScientist/tree/main/Project%202#file-descriptions)
